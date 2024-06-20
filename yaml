@@ -1,0 +1,4 @@
+# Ignore all files except Product_Details.html and README.md
+*
+!Product_Details.html
+!README.md
